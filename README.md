@@ -1,4 +1,4 @@
-# 🔍 Análise de Processo de Prevenção à Fraude
+# 🔍 Sistema de Análise de Fraude com BPMN e Protótipo Interativo
 
 Este projeto apresenta a análise e modelagem de um processo de validação de transações suspeitas, com foco na identificação de gargalos e proposta de solução tecnológica.
 
@@ -7,6 +7,14 @@ Este projeto apresenta a análise e modelagem de um processo de validação de t
 ## 📌 Objetivo
 
 Mapear o processo atual (AS-IS), identificar ineficiências e propor uma solução digital para otimizar a análise de fraude.
+
+---
+
+## 🧩 Problema de Negócio
+
+O processo atual de análise de transações apresenta falhas como retrabalho, falta de padronização e ausência de rastreabilidade nas decisões, impactando diretamente a eficiência operacional e aumentando o risco de erros.
+
+A proposta deste projeto é estruturar esse processo por meio de uma solução digital, centralizando informações e automatizando a análise de risco.
 
 ---
 
@@ -21,7 +29,7 @@ Mapear o processo atual (AS-IS), identificar ineficiências e propor uma soluç�
 
 ## 🖥️ Protótipo do Sistema
 
-Protótipo navegável simulando um sistema real de análise de fraude, com fluxo completo de decisão, aprovação, bloqueio e rastreabilidade.
+Protótipo navegável simulando um sistema real de monitoramento e decisão em análise de fraude, com fluxo completo de aprovação, bloqueio e rastreabilidade.
 
 👉 [Acesse o protótipo navegável aqui](https://www.figma.com/make/7GS5etnSHUo0aHDg2sGLi2/Fraud-Detection-Dashboard-Prototype?fullscreen=1&t=cf3Cb2VMuK9RRsUR-1&preview-route=%2Fhistory)
 
