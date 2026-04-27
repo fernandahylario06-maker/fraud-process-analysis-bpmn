@@ -23,27 +23,26 @@ Mapear o processo atual (AS-IS), identificar ineficiências e propor uma soluç�
 
 Protótipo navegável simulando um sistema real de análise de fraude.
 
-👉 Acesse o protótipo:
-[Acesse o protótipo navegável aqui](https://www.figma.com/make/7GS5etnSHUo0aHDg2sGLi2/Fraud-Detection-Dashboard-Prototype?fullscreen=1&t=cf3Cb2VMuK9RRsUR-1&preview-route=%2Fhistory)
+👉 [Acesse o protótipo navegável aqui](https://www.figma.com/make/7GS5etnSHUo0aHDg2sGLi2/Fraud-Detection-Dashboard-Prototype?fullscreen=1&t=cf3Cb2VMuK9RRsUR-1&preview-route=%2Fhistory)
 
 ---
 
 ## 📸 Telas do Sistema
 
 ### Dashboard
-![Dashboard](images/dashboard-projeto.png)
+![Dashboard](images/Dashboard.png)
 
 ### Análise de Transação
-![Análise](images/analise-projeto.png)
+![Análise](images/Análise%20de%20Transação.png)
 
 ### Decisão do Analista
-![Decisão](images/decisao-projeto.png)
+![Decisão](images/decisão.png)
 
 ### Feedback do Sistema
-![Popup](images/popup-projeto.png)
+![Popup](images/Feedback%20do%20Sistema.png)
 
 ### Histórico de Decisões
-![Histórico](images/historico-projeto.png)
+![Histórico](images/Histórico%20de%20Decisões.png)
 
 ---
 
