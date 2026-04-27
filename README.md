@@ -46,6 +46,16 @@ Protótipo navegável simulando um sistema real de análise de fraude, com fluxo
 
 ---
 
+## 🎓 Evidências Acadêmicas
+
+### Resultado do Projeto na Plataforma
+![Resultado do Projeto](images/resultado-projeto.png)
+
+### Dashboard da Experiência Prática
+![Dashboard da Experiência Prática](images/dashboard-projeto.png)
+
+---
+
 ## ⭐ Diferenciais do Projeto
 
 - Simulação de fluxo completo de análise de fraude  
