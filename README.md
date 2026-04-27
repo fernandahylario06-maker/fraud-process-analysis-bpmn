@@ -1,5 +1,7 @@
 # 🔍 Análise de Processo de Prevenção à Fraude
 
+> Projeto acadêmico aplicado com foco em análise de processos e proposta de solução tecnológica.
+
 ![BPMN](./images/bpmn-as-is.png)
 
 ## 📌 Sobre o projeto
