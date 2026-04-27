@@ -21,7 +21,7 @@ Mapear o processo atual (AS-IS), identificar ineficiências e propor uma soluç�
 
 ## 🖥️ Protótipo do Sistema
 
-Protótipo navegável simulando um sistema real de análise de fraude.
+Protótipo navegável simulando um sistema real de análise de fraude, com fluxo completo de decisão, aprovação, bloqueio e rastreabilidade.
 
 👉 [Acesse o protótipo navegável aqui](https://www.figma.com/make/7GS5etnSHUo0aHDg2sGLi2/Fraud-Detection-Dashboard-Prototype?fullscreen=1&t=cf3Cb2VMuK9RRsUR-1&preview-route=%2Fhistory)
 
@@ -30,27 +30,36 @@ Protótipo navegável simulando um sistema real de análise de fraude.
 ## 📸 Telas do Sistema
 
 ### Dashboard
-![Dashboard](images/Dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ### Análise de Transação
-![Análise](images/Análise%20de%20Transação.png)
+![Análise de Transação](images/analise-transacao.png)
 
 ### Decisão do Analista
-![Decisão](images/decisão.png)
+![Decisão do Analista](images/decisao-analista.png)
 
 ### Feedback do Sistema
-![Popup](images/Feedback%20do%20Sistema.png)
+![Feedback do Sistema](images/feedback-sistema.png)
 
 ### Histórico de Decisões
-![Histórico](images/Histórico%20de%20Decisões.png)
+![Histórico de Decisões](images/historico-decisoes.png)
+
+---
+
+## ⭐ Diferenciais do Projeto
+
+- Simulação de fluxo completo de análise de fraude  
+- Interface interativa com feedback em tempo real  
+- Registro e rastreabilidade de decisões  
+- Aplicação prática de conceitos de BPMN e análise de sistemas  
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
 - BPMN 2.0  
-- Figma (Protótipo interativo)  
-- GitHub (versionamento)
+- Figma  
+- GitHub  
 
 ---
 
