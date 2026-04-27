@@ -50,6 +50,14 @@ Sistema integrado para:
 ![Dashboard](./dashboard-projeto.png)
 
 ---
+---
 
+## 🚀 Tecnologias e conceitos utilizados
+
+- BPMN 2.0  
+- Modelagem de processos  
+- Levantamento de requisitos  
+- Análise de sistemas
+- 
 ## 👩‍💻 Autora
 Fernanda Rafaela Hylario
