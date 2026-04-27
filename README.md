@@ -1,17 +1,33 @@
 # 🔍 Análise de Processo de Prevenção à Fraude
 
+![BPMN](./images/bpmn-as-is.png)
+
 ## 📌 Sobre o projeto
-Este projeto apresenta a análise de um processo de validação de transações suspeitas, com foco na identificação de gargalos e proposta de solução tecnológica.
+Este projeto simula um cenário real de prevenção à fraude, aplicando conceitos de análise de sistemas e melhoria de processos organizacionais.
+
+O objetivo é analisar o fluxo atual de validação de transações suspeitas, identificar gargalos operacionais e propor uma solução tecnológica eficiente e escalável.
 
 ---
 
 ## 🚨 Problema
-O processo atual apresenta:
+O processo atual apresenta diversas ineficiências, como:
 
 - Uso de planilhas manuais  
 - Falta de integração entre sistemas  
-- Retrabalho e lentidão  
-- Baixa rastreabilidade  
+- Retrabalho frequente  
+- Lentidão na análise de transações  
+- Baixa rastreabilidade das decisões  
+
+Esses fatores impactam diretamente a produtividade, aumentam custos operacionais e elevam o risco de falhas na detecção de fraudes.
+
+---
+
+## 📊 Metodologia utilizada
+
+- Levantamento de requisitos  
+- Modelagem de processos (BPMN 2.0)  
+- Identificação de gargalos operacionais  
+- Análise de impacto no negócio  
 
 ---
 
@@ -23,21 +39,33 @@ O processo atual apresenta:
 
 ## ⚠️ Gargalos identificados
 
-- Processo manual  
-- Dependência de planilhas  
-- Falta de integração  
-- Análise demorada  
+- Dependência de processos manuais  
+- Uso de múltiplas ferramentas não integradas  
+- Alto tempo de análise manual  
+- Falta de padronização nas decisões  
+- Risco de erro humano  
 
 ---
 
 ## 💡 Solução proposta
 
-Sistema integrado para:
+Implementação de um sistema integrado capaz de:
 
-- Automatizar análise  
-- Centralizar dados  
-- Reduzir erros  
-- Melhorar rastreabilidade  
+- Automatizar a análise de transações suspeitas  
+- Centralizar informações em uma única plataforma  
+- Reduzir erros operacionais  
+- Melhorar a rastreabilidade e auditoria  
+- Aumentar a eficiência operacional  
+
+---
+
+## 📈 Resultados esperados
+
+- Redução do tempo de análise  
+- Diminuição de retrabalho  
+- Aumento da produtividade da equipe  
+- Melhoria na segurança das decisões  
+- Maior controle e rastreabilidade  
 
 ---
 
@@ -50,14 +78,25 @@ Sistema integrado para:
 ![Dashboard](./dashboard-projeto.png)
 
 ---
+
+## 🚀 Próximos passos
+
+- Desenvolvimento de protótipo (Figma)  
+- Implementação de sistema integrado  
+- Automação com regras de fraude  
+- Integração com APIs e bases de dados  
+
 ---
 
-## 🚀 Tecnologias e conceitos utilizados
+## 📌 Competências desenvolvidas
 
-- BPMN 2.0  
-- Modelagem de processos  
+- Análise de processos organizacionais  
+- Modelagem BPMN 2.0  
 - Levantamento de requisitos  
-- Análise de sistemas
-- 
+- Pensamento analítico  
+- Visão de negócio aplicada à tecnologia  
+
+---
+
 ## 👩‍💻 Autora
 Fernanda Rafaela Hylario
